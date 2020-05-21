@@ -52,7 +52,7 @@ $(document).ready(function() {
     
     
     
-    /* Changes to add button */
+    /* Changes to add button for iphone*/
     
     
     
